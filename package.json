@@ -1,0 +1,10 @@
+{
+  "name": "party_greeter",
+  "version": "1.0.0",
+  "description": "A Discord bot for the VJ BDay Bash. Happy Birthday Sarah! Let's partyyyyyy (socially-distanced, of course)",
+  "main": "index.js",
+  "repository": "https://github.com/DaneTheory/Party-Greeter-Discord-Bot.git",
+  "author": "Branden Dane",
+  "license": "MIT",
+  "private": false
+}
